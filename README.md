@@ -1,11 +1,14 @@
-## Secure Connection API
+## ecommerce
 
-This E-commerce web application API allow user to purchase the products,manage their shopping cart and place order.The Administrator can create, update and delete.This project also include authentication and authorization for data security.
+This secure-conn-api is a web application API which provide user authentication and authorization feature.IT allow user to sign up,login,and access the secure page.It is secure as Jwt tokens are used to secure the connection
 
 ## Features
 
 - User registration and Authentication
 - User login
+- Secure page access
+- Password hashing
+- JWT Authentication
 - User logout
 ## Technology used
 
