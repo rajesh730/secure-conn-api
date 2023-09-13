@@ -1,14 +1,12 @@
-## E-commerce API
+## Secure Connection API
 
 This E-commerce web application API allow user to purchase the products,manage their shopping cart and place order.The Administrator can create, update and delete.This project also include authentication and authorization for data security.
 
 ## Features
 
 - User registration and Authentication
-- Product management
-- Cart management
-- order management
-
+- User login
+- User logout
 ## Technology used
 
 - node js
@@ -22,7 +20,7 @@ This E-commerce web application API allow user to purchase the products,manage t
 - **clone repo :** <br>
 
 ```bash
-  git clone https://github.com/rajesh730/Ecommerce-api
+  git clone https://github.com/rajesh730/secure-conn-api
 ```
 
 -**Install Dependencies :** `npm install`
